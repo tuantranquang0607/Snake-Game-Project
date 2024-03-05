@@ -165,13 +165,13 @@ function checkCollision() {
 
 // Reset game
 function resetGame() {
+    updateHighScore();
+    stopGame();
     snake = [{ x: 10, y: 10 }];
     food = generateFood();
     direction = 'right';
     gameSpeedDelay = 200;
     updateScore();
-    updateHighScore();
-    stopGame();
 };
 
 // Update score to save
