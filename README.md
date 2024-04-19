@@ -3,7 +3,7 @@
 I made a Snake Game using HTML, CSS, and JavaScript based on the freeCodeCamp.org tutorial.
 
 Source: https://youtu.be/uyhzCBEGaBY?si=hYdrI-GzS90oL59a <br>
-Code: https://github.com/Ade-mir/snake-game-js
+Source Code: https://github.com/Ade-mir/snake-game-js
 
 # 💫 About Me:
 I am an international student in Canada, majoring in Game Development. Besides, I dabble in Web Development and digital art. <br>Feel free to contact me for work or anything else.<br><br>Fun fact about me: I look much younger than my age 😊.
