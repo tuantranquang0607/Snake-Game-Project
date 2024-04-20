@@ -2,6 +2,7 @@
 
 I made a Snake Game using HTML, CSS, and JavaScript based on the freeCodeCamp.org tutorial.
 
+Live Demo: https://tuantranquang0607.github.io/Snake-Game-Project/
 Source: https://youtu.be/uyhzCBEGaBY?si=hYdrI-GzS90oL59a <br>
 Source Code: https://github.com/Ade-mir/snake-game-js
 
