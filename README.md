@@ -1,6 +1,6 @@
 # Snake-Game-Project
 
-I made a Snake Game using HTML, CSS, and JavaScript based on the freeCodeCamp.org tutorial.
+Following a freeCodeCamp.org tutorial, I developed a Snake Game using HTML, CSS, and JavaScript. The project involved drawing the game board, creating the snake, generating food randomly, controlling the snake’s movement, increasing its size and speed when it eats, keeping score, tracking collisions, and displaying the high score.
 
 Live Demo: https://tuantranquang0607.github.io/Snake-Game-Project/<br>
 Source: https://youtu.be/uyhzCBEGaBY?si=hYdrI-GzS90oL59a <br>
